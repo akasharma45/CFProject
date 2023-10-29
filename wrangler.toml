@@ -1,0 +1,7 @@
+name = "my-geo-worker"
+type = "javascript"
+account_id = "db075ae8482f31847c2fe85bf7c234f8"
+workers_dev = true
+route = "www.cloudvilla.shop/geo"
+zone_id = "54b495b6d882cc0f5852963bc80d7e6a"
+compatibility_date = "2023-10-29"
